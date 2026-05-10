@@ -1,0 +1,4 @@
+target
+.mvn
+.m2
+*.log
